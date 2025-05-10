@@ -61,7 +61,8 @@ If you want to run from source:
 ---
 
 ## 📷 Screenshots (Optional)
-![Gameplay](images/screenshot1.png)
+
+![Gameplay](screenshot1.png)
 ```
 
 ---
