@@ -33,7 +33,7 @@ A modified version of the classic Three Men's Morris game built using Java Swing
 
 ### 🔧 Option 1: Installer (Recommended)
 
-Download the `.exe` or `.jar` installer from the [Releases](https://github.com/your-username/your-repo/releases) section and double-click to launch the game.
+Download the `.exe` or `.jar` installer from the [Releases](https://github.com/Muhammad-Mubashir-Shafique/three-mens-morris-desktop/releases) section and double-click to launch the game.
 
 ### ⚙️ Option 2: Terminal
 
@@ -57,5 +57,21 @@ If you want to run from source:
 1. One player selects **"Network Game" → "Host Game"**
 2. Other player selects **"Network Game" → "Join Game"** and enters host’s IP
 3. Both players must be on the same LAN/WiFi
+
+---
+
+## 📷 Screenshots (Optional)
+
+You can upload gameplay screenshots in the `images/` folder and display them here using:
+```markdown
+![Gameplay](images/screenshot1.png)
+```
+
+---
+
+## 🙌 Credits
+
+- Developed with 💻 by **Muhammad Mubashir Shafique**
+- Inspired by childhood memories of traditional board games
 
 ---
