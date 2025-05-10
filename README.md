@@ -61,9 +61,6 @@ If you want to run from source:
 ---
 
 ## 📷 Screenshots (Optional)
-
-You can upload gameplay screenshots in the `images/` folder and display them here using:
-```markdown
 ![Gameplay](images/screenshot1.png)
 ```
 
