@@ -60,10 +60,10 @@ If you want to run from source:
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
 
-![Gameplay](screenshot1.png)
-```
+### 🎮 Gameplay
+![Gameplay](screenshot.png)
 
 ---
 
