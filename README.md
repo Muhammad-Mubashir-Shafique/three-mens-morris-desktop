@@ -33,7 +33,7 @@ A modified version of the classic Three Men's Morris game built using Java Swing
 
 ### 🔧 Option 1: Installer (Recommended)
 
-Download the `.exe` or `.jar` installer from the [Releases](https://github.com/Muhammad-Mubashir-Shafique/three-mens-morris-desktop/releases) section and double-click to launch the game.
+Download the `.exe` or `.jar` from the [Releases](https://github.com/Muhammad-Mubashir-Shafique/three-mens-morris-desktop/releases) section and double-click to launch the game.
 
 ### ⚙️ Option 2: Terminal
 
